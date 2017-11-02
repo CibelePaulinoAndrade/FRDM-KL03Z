@@ -6,4 +6,4 @@
 
 ## Descrição
 --- Blinky simples ---
-Acende um LED
+
