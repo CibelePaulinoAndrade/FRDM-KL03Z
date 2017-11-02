@@ -1,8 +1,9 @@
-# FRDM-KL03Z
+# Blinky simples
 
-Blinky 
-freescale FRDM-KL03Z
-Kinetis Desing Studio
+## Tecnologias
+1. Kinetis Desing Studio
+2. freescale FRDM-KL03Z
 
+## Descrição
 --- Blinky simples ---
 Acende um LED
